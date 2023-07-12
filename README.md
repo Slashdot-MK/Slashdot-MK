@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Slashdot-MK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in code
+- 🌱 I’m currently learning python,HTML
+- 📫 How to reach me:
+  QQ:2979663069
+  email:2979663069@qq.com
 
 <!---
 Slashdot-MK/Slashdot-MK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
